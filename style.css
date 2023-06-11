@@ -1,0 +1,49 @@
+h1{
+    color: red;
+}
+p{
+    color: aliceblue;
+}
+.p1{
+    border-width: 3px;
+    border-style: dashed;
+    border-color: aqua;
+    border-radius: 10px;
+}
+body{
+    background-color:black;
+    background-image: url(3.jpg);
+    background-repeat: no-repeat;
+}
+.container{
+    width: 500px;
+    height: 300px;
+    background-color: grey;
+    border: 5px solid red;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-left: 10px;
+}
+.style{
+    border: 5px solid red;
+    outline-width: 10px;
+    outline-style: solid;
+    outline-offset: 5px;
+    outline-color: aqua;
+    margin: 50px;
+}
+.fonts{
+    color: white;
+    text-transform: capitalize;
+    text-indent: 25px;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    line-height: 20px;
+    font-family: serif;
+    font-weight: bold;
+
+}
+.fa-brands{
+    color: blue;
+    font-size: 50px;
+}
